@@ -1,46 +1,46 @@
 @font-face {
   font-family: archivo-regular;
-  src: url(/fonts/Archivo-Regular.ttf);
+  src: url(./fonts/Archivo-Regular.ttf) format('truetype');
 }
 
   @font-face {
   font-family: archivo-narrow-medium;
-  src: url(/fonts/ArchivoNarrow-Medium.ttf);
+  src: url(./fonts/ArchivoNarrow-Medium.ttf) format('truetype');
   }
 
   @font-face {
   font-family: archivo-semibold;
-  src: url(/fonts/Archivo-SemiBold.ttf);
+  src: url(./fonts/Archivo-SemiBold.ttf) format('truetype');
   }
 
   @font-face {
   font-family: gtalpina-typewriter-regular;
-  src: url(/fonts/GT-Alpina-Typewriter-Regular-Trial.otf);
+  src: url(./fonts/GT-Alpina-Typewriter-Regular-Trial.otf) format('opentype');
 }
 
 @font-face {
   font-family: gtalpina-typewriter-thin;
-  src: url(/fonts/GT-Alpina-Typewriter-Thin-Trial.otf);
+  src: url(./fonts/GT-Alpina-Typewriter-Thin-Trial.otf) format('opentype');
 }
 
   @font-face {
     font-family: gtalpina-typewriter-italic;
-    src: url(/fonts/GT-Alpina-Typewriter-Regular-Italic-Trial.otf);
+    src: url(./fonts/GT-Alpina-Typewriter-Regular-Italic-Trial.otf) format('opentype');
 }
 
 @font-face {
   font-family: archivo-bold;
-  src: url(./fonts/Archivo-Bold.ttf);
+  src: url(./fonts/Archivo-Bold.ttf) format('truetype');
 }
 
 @font-face {
   font-family: archivo-light;
-  src: url(/fonts/Archivo-Light.ttf);
+  src: url(./fonts/Archivo-Light.ttf) format('truetype');
 }
 
 @font-face {
   font-family: archivo-narrow-bold;
-  src: url(/fonts/ArchivoNarrow-Bold.ttf);
+  src: url(./fonts/ArchivoNarrow-Bold.ttf) format('truetype');
 }
 
 
